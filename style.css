@@ -1,7 +1,8 @@
 /* Barra de navegacion */
 
 .navbar {
-  padding: 2rem;
+  padding: 10px;
+  height: 65px;
   background-color:cadetblue;
 }
 
